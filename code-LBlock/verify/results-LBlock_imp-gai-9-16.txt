@@ -1,0 +1,55 @@
+p20Rd9 = 1
+p21Rd9 = 0
+p22Rd9 = 0
+p23Rd9 = 0
+
+p20Rd9 = 0
+p21Rd9 = 1
+p22Rd9 = 0
+p23Rd9 = 0
+
+p20Rd9 = 1
+p21Rd9 = 1
+p22Rd9 = 0
+p23Rd9 = 0
+
+p20Rd9 = 1
+p21Rd9 = 0
+p22Rd9 = 1
+p23Rd9 = 0
+
+p20Rd9 = 0
+p21Rd9 = 1
+p22Rd9 = 1
+p23Rd9 = 0
+
+p20Rd9 = 1
+p21Rd9 = 1
+p22Rd9 = 1
+p23Rd9 = 0
+
+p20Rd9 = 0
+p21Rd9 = 0
+p22Rd9 = 0
+p23Rd9 = 1
+
+p20Rd9 = 0
+p21Rd9 = 1
+p22Rd9 = 0
+p23Rd9 = 1
+
+p20Rd9 = 0
+p21Rd9 = 0
+p22Rd9 = 1
+p23Rd9 = 1
+
+p20Rd9 = 1
+p21Rd9 = 0
+p22Rd9 = 1
+p23Rd9 = 1
+
+p20Rd9 = 1
+p21Rd9 = 1
+p22Rd9 = 1
+p23Rd9 = 1
+
